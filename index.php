@@ -66,31 +66,7 @@
   <div class="slider">
   <!-- masterslider -->
   <div class="master-slider ms-skin-default" id="masterslider">    
-      
-      
-      
-	   <!-- slide 1a1 --> 
-    <div class="ms-slide slide-1 text-center" data-delay="9"> 
-    <img src="js/masterslider/blank.gif" data-src="images/slider/2022/TurboTax2022.png" alt=""/>
-
-		
-          
-         <a class="ms-layer sbut11"
-			style="left: 320px; top: 420px; background: #dc3c84;"
-			data-type="text"
-			data-delay="2000"
-			data-ease="easeOutExpo"
-			data-duration="1200"
-			data-effect="right(250)"
-			href="https://links.lovemycreditunion.org/client/love_my_cu/banner/?bid=6017&campid=89&clientid=0&sid=1"> <span>Save Now</span> </a>    
-           
-            
-     
-    </div>
-    <!-- end slide  --> 
-      
-      
-      
+       
        <!-- slide 1a1 --> 
     <div class="ms-slide slide-1 text-center" data-delay="9"> 
     <img src="js/masterslider/blank.gif" data-src="images/slider/banner-2.jpg" alt=""/>
