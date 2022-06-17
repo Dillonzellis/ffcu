@@ -209,17 +209,56 @@
                                     </div>
                                 </div>
 
+                            </div>
+                            <div class="accordion_in three">
+                                <div class="acc_head">
+                                    <div class="acc_icon_expand"></div>
+                                    <div class="acc_icon_expand"></div><strong>2019 Nissan Kicks - 70,889 mi - $16,000</strong>
+                                </div>
+                                <div class="acc_content">
+                                    <div class="row mb-2">
+                                        <div class="col-sm-4">
+                                            <a href="#" data-remodal-target="cadSide" style="cursor: zoom-in;"><img src="/images/2019Cad-side.jpg" alt="cadillac side"></a>
+                                        </div>
+                                        <div class="col-sm-4">
+                                            <a href="#" data-remodal-target="cadLeft" style="cursor: zoom-in;"><img src="/images/2019Cadleft.jpg" alt="Cadillac Left Side"></a>
+                                        </div>
+                                        <div class="col-sm-4">
+                                            <a href="#" data-remodal-target="cadBack" style="cursor: zoom-in;"> <img src="/images/2019Cad-back.jpg" alt="Cadillac Back Side"></a>
+                                        </div>
 
+                                    </div>
 
+                                    <div class="row mb-2">
+                                        <div class="col-sm-4">
+                                            <a href="#" data-remodal-target="cadFront" style="cursor: zoom-in;"><img src="/images/2019Cad-front.jpg" alt="Cadillac Front"></a>
+                                        </div>
+                                        <div class="col-sm-4">
+                                            <a href="#" data-remodal-target="cadIntBack" style="cursor: zoom-in;"><img src="/images/2019Cad-int-back.jpg" alt="Cadillac Interior Back"></a>
+                                        </div>
+                                        <div class="col-sm-4">
+                                            <a href="#" data-remodal-target="CadIntWheel" style="cursor: zoom-in;"><img src="/images/2019Cad-int-wheel.jpg" alt="Cadillac Interior Wheel"></a>
+                                        </div>
+                                    </div>
 
+                                    <div class="row mb-2">
+                                        <div class="col-sm-4">
+                                            <a href="#" data-remodal-target="cadIntFront" style="cursor: zoom-in;"><img src="/images/2019Cad-int-front.jpg" alt="Cadillac Interior Front"></a>
+                                        </div>
+                                        <div class="col-sm-4">
+                                            <a href="#" data-remodal-target="cadIntBackSeat2" style="cursor: zoom-in;"><img src="/images/2019Cad-int-backseat2.jpg" alt="Cadillac Interior Back Seat 2"></a>
+                                        </div>
+                                        <div class="col-sm-4">
+                                            <a href="#" data-remodal-target="cadIntCons" style="cursor: zoom-in;"> <img src="/images/2019Cad-int-console.jpg" alt="Cadillac Interior Console"></a>
+                                        </div>
+                                    </div>
 
-
-
-
-
-
-
-
+                                    <div class="row">
+                                        <div class="col-sm-4">
+                                            <a href="#" data-remodal-target="CadIntRoof" style="cursor: zoom-in;"><img src="/images/2019Cad-int-roof.jpg" alt="Cadillac Interior Roof"></a>
+                                        </div>
+                                    </div>
+                                </div>
 
                             </div>
                         </div>

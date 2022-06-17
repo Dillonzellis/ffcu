@@ -206,7 +206,7 @@ with a current floor of 5.00%</td>
 <!--************THIS IS WHERE WE ARE INCLUDING THE FOOTER!!!! ************
 	YOU CAN FIND IT IN FOOTER.php!!!!-->
 	
-  <div w3-include-html="footer.php"></div>
+  <!-- <div w3-include-html="footer.php"></div> -->
 	
 <!--*********FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER **********-->
 
