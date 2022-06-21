@@ -210,52 +210,57 @@
                                 </div>
 
                             </div>
+
+
                             <div class="accordion_in three">
                                 <div class="acc_head">
                                     <div class="acc_icon_expand"></div>
                                     <div class="acc_icon_expand"></div><strong>2019 Nissan Kicks - 70,889 mi - $16,000</strong>
                                 </div>
                                 <div class="acc_content">
-                                    <div class="row mb-2">
-                                        <div class="col-sm-4">
-                                            <a href="#" data-remodal-target="cadSide" style="cursor: zoom-in;"><img src="/images/2019Cad-side.jpg" alt="cadillac side"></a>
-                                        </div>
-                                        <div class="col-sm-4">
-                                            <a href="#" data-remodal-target="cadLeft" style="cursor: zoom-in;"><img src="/images/2019Cadleft.jpg" alt="Cadillac Left Side"></a>
-                                        </div>
-                                        <div class="col-sm-4">
-                                            <a href="#" data-remodal-target="cadBack" style="cursor: zoom-in;"> <img src="/images/2019Cad-back.jpg" alt="Cadillac Back Side"></a>
-                                        </div>
-
-                                    </div>
 
                                     <div class="row mb-2">
                                         <div class="col-sm-4">
-                                            <a href="#" data-remodal-target="cadFront" style="cursor: zoom-in;"><img src="/images/2019Cad-front.jpg" alt="Cadillac Front"></a>
+                                            <a href="#" data-remodal-target="nisFront" style="cursor: zoom-in;"><img src="/images/nissan2019-front.jpg" alt="Nissan Front"></a>
                                         </div>
                                         <div class="col-sm-4">
-                                            <a href="#" data-remodal-target="cadIntBack" style="cursor: zoom-in;"><img src="/images/2019Cad-int-back.jpg" alt="Cadillac Interior Back"></a>
+                                            <a href="#" data-remodal-target="cadIntBack" style="cursor: zoom-in;"><img src="/images/nissan2019-front-side.jpg" alt="Nisson Front Side"></a>
                                         </div>
                                         <div class="col-sm-4">
-                                            <a href="#" data-remodal-target="CadIntWheel" style="cursor: zoom-in;"><img src="/images/2019Cad-int-wheel.jpg" alt="Cadillac Interior Wheel"></a>
+                                            <a href="#" data-remodal-target="CadIntWheel" style="cursor: zoom-in;"><img src="/images/nissan2019-side.jpg" alt="Nissan Side"></a>
                                         </div>
                                     </div>
 
                                     <div class="row mb-2">
                                         <div class="col-sm-4">
-                                            <a href="#" data-remodal-target="cadIntFront" style="cursor: zoom-in;"><img src="/images/2019Cad-int-front.jpg" alt="Cadillac Interior Front"></a>
+                                            <a href="#" data-remodal-target="cadSide" style="cursor: zoom-in;"><img src="/images/nissan2019-inside.jpg" alt="nissan side"></a>
                                         </div>
                                         <div class="col-sm-4">
-                                            <a href="#" data-remodal-target="cadIntBackSeat2" style="cursor: zoom-in;"><img src="/images/2019Cad-int-backseat2.jpg" alt="Cadillac Interior Back Seat 2"></a>
+                                            <a href="#" data-remodal-target="cadLeft" style="cursor: zoom-in;"><img src="/images/nissan2019-inside-back.jpg" alt="nissan Left inside back"></a>
                                         </div>
                                         <div class="col-sm-4">
-                                            <a href="#" data-remodal-target="cadIntCons" style="cursor: zoom-in;"> <img src="/images/2019Cad-int-console.jpg" alt="Cadillac Interior Console"></a>
+                                            <a href="#" data-remodal-target="cadBack" style="cursor: zoom-in;"> <img src="/images/nissan2019-trunk.jpg" alt="nissan trunk"></a>
+                                        </div>
+
+                                    </div>
+
+
+
+                                    <div class="row mb-2">
+                                        <div class="col-sm-4">
+                                            <a href="#" data-remodal-target="cadIntFront" style="cursor: zoom-in;"><img src="/images/nissan2019-back.jpg" alt="Nissan Back"></a>
+                                        </div>
+                                        <div class="col-sm-4">
+                                            <a href="#" data-remodal-target="cadIntBackSeat2" style="cursor: zoom-in;"><img src="/images/nissan2019-console.jpg" alt="Nissan Console"></a>
+                                        </div>
+                                        <div class="col-sm-4">
+                                            <a href="#" data-remodal-target="cadIntCons" style="cursor: zoom-in;"> <img src="/images/nissan2019-mileage.jpg" alt="Nissan Mileage"></a>
                                         </div>
                                     </div>
 
                                     <div class="row">
                                         <div class="col-sm-4">
-                                            <a href="#" data-remodal-target="CadIntRoof" style="cursor: zoom-in;"><img src="/images/2019Cad-int-roof.jpg" alt="Cadillac Interior Roof"></a>
+                                            <a href="#" data-remodal-target="CadIntRoof" style="cursor: zoom-in;"><img src="/images/nissan2019-console-2.jpg" alt="Nissan Console 2"></a>
                                         </div>
                                     </div>
                                 </div>
