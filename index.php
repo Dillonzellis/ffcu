@@ -227,7 +227,7 @@
             </div>
         </div>
         <!-- end of masterslider -->
-    </sdiv>
+    </div>
     <div class="clearfix"></div>
     <div class="rate-sec row">
         <div class="container" style="padding: 0;">
