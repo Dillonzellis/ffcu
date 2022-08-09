@@ -55,14 +55,16 @@
     .width-force {
         width: 100% !important;
     }
-	.force-m{
-		margin-left: 0 !important;
-	}
-	.all-h{
-		height: unset !important;
-		width: unset !important;
-		margin-top: 0 !important;
-	}
+
+    .force-m {
+        margin-left: 0 !important;
+    }
+
+    .all-h {
+        height: unset !important;
+        width: unset !important;
+        margin-top: 0 !important;
+    }
 </style>
 
 <body>
@@ -85,15 +87,15 @@
             <div class="master-slider ms-skin-default" id="masterslider">
 
 
-	            <div class="ms-slide slide-1 text-center" data-delay="9">
+                <div class="ms-slide slide-1 text-center" data-delay="9">
                     <img src="js/masterslider/blank.gif" data-src="images/slider/2022/cuoftheyear-edit.png" alt="" style="margin-left: 0;" class="" />
 
 
-                     <a class="ms-layer sbut11" style="left: 60px; top: 370px; background: #005C2F;" data-type="text" data-delay="2000" data-ease="easeOutExpo" data-duration="1200" data-effect="right(250)" href="pdf/CreditUnionoftheYear.pdf" target="_blank">
-                        <span>Learn More</span> </a> 
+                    <a class="ms-layer sbut11" style="left: 60px; top: 370px; background: #005C2F;" data-type="text" data-delay="2000" data-ease="easeOutExpo" data-duration="1200" data-effect="right(250)" href="pdf/CreditUnionoftheYear.pdf" target="_blank">
+                        <span>Learn More</span> </a>
                 </div>
-				
-				
+
+
                 <!-- working adv slide 1a1 -->
                 <div class="ms-slide slide-1 text-center" data-delay="9">
                     <img class="width-force" src="js/masterslider/blank.gif" data-src="images/slider/2022/blank-FFCU-May.png" alt="" />
@@ -131,7 +133,7 @@
 
                 <!-- slide 1a1 -->
                 <div class="ms-slide slide-1 text-center" data-delay="9">
-                    <img src="js/masterslider/blank.gif" data-src="images/slider/2022/allpoint.png" alt="" style="margin-left: 0;" class="force-m all-h"/>
+                    <img src="js/masterslider/blank.gif" data-src="images/slider/2022/allpoint.png" alt="" style="margin-left: 0;" class="force-m all-h" />
 
                     <h3 class="ms-layer" style="left: 205px;
 						top: 539px;
@@ -153,7 +155,7 @@
                     <h3 class="ms-layer text29" style="left: 170px; top: 70px; font-size: 72px; line-height: 74px; font-weight: 500; color: #00abbf; text-align: left; margin: 0px; padding: 0px;" data-type="text" data-delay="500" data-ease="easeOutExpo" data-duration="1230" data-effect="scale(-0.3,-0.3)">
                         JOINING IS
                     </h3>
-                     <h3 class="ms-layer text30" style="left: 150px;
+                    <h3 class="ms-layer text30" style="left: 150px;
                         top: 160px;
                         color: #00295d;
                         font-weight: 600;
@@ -171,66 +173,66 @@
                         margin: 0px;
                         padding: 0px;
                         line-height: 22px;" data-type="text" data-delay="1500" data-ease="easeOutExpo" data-duration="1230" data-effect="scale(1.5,1.6)"> You can now open a new account online! See why we're POPular</h3>
-                        <a class="ms-layer sbut11" style="left: 160px; top: 420px; background: #dc3c84;" data-type="text" data-delay="2000" data-ease="easeOutExpo" data-duration="1200" data-effect="right(250)" href="https://oao-familyfirstcu.financialhost.org/#GETTINGSTARTED"> <span>Get Started</span> </a>
+                    <a class="ms-layer sbut11" style="left: 160px; top: 420px; background: #dc3c84;" data-type="text" data-delay="2000" data-ease="easeOutExpo" data-duration="1200" data-effect="right(250)" href="https://oao-familyfirstcu.financialhost.org/#GETTINGSTARTED"> <span>Get Started</span> </a>
                 </div>
                 <!-- end slide  -->
 
 
-<!-- slide A  -->
-<div class="ms-slide slide-1 text-center" data-delay="9">
-					<img src="js/masterslider/blank.gif" data-src="images/slider/banner-1.jpg" alt="" />
+                <!-- slide A  -->
+                <div class="ms-slide slide-1 text-center" data-delay="9">
+                    <img src="js/masterslider/blank.gif" data-src="images/slider/banner-1.jpg" alt="" />
 
-					<h3 class="ms-layer text29 uppercase" style="left: 230px;top: 140px;" data-type="text" data-delay="1500" data-ease="easeOutExpo" data-duration="1230" data-effect="scale(1.5,1.6)"> Insurance Solutions For What Matters</h3>
+                    <h3 class="ms-layer text29 uppercase" style="left: 230px;top: 140px;" data-type="text" data-delay="1500" data-ease="easeOutExpo" data-duration="1230" data-effect="scale(1.5,1.6)"> Insurance Solutions For What Matters</h3>
 
-					<h3 class="ms-layer text30 uppercase" style="left: 230px;top: 220px;font-size: 62px;font-weight: 800;" data-type="text" data-delay="2000" data-ease="easeOutExpo" data-duration="1230" data-effect="scale(-0.3,-0.3)">truSTAGE</h3>
-
-
-
-					<a class="ms-layer sbut10" style="left: 430px; top: 360px;" data-type="text" data-delay="2000" data-ease="easeOutExpo" data-duration="1200" data-effect="left(250)" href="https://ffcuga.org/insurance.php"> <span>Free Quote</span> </a>
-
-					<a class="ms-layer sbut11" style="left: 230px; top: 360px;" data-type="text" data-delay="2000" data-ease="easeOutExpo" data-duration="1200" data-effect="right(250)" href="https://ffcuga.org/insurance.php"> <span>Learn More</span> </a>
-
-
-				</div>
-				<!-- end slide A -->
+                    <h3 class="ms-layer text30 uppercase" style="left: 230px;top: 220px;font-size: 62px;font-weight: 800;" data-type="text" data-delay="2000" data-ease="easeOutExpo" data-duration="1230" data-effect="scale(-0.3,-0.3)">truSTAGE</h3>
 
 
 
+                    <a class="ms-layer sbut10" style="left: 430px; top: 360px;" data-type="text" data-delay="2000" data-ease="easeOutExpo" data-duration="1200" data-effect="left(250)" href="https://ffcuga.org/insurance.php"> <span>Free Quote</span> </a>
 
-				<!-- slide 1  -->
-				<div class="ms-slide slide-1 text-center" data-delay="9">
-					<img src="js/masterslider/blank.gif" data-src="images/slider/Instant-Issue-Banner-(002).jpg" alt="" />
-
+                    <a class="ms-layer sbut11" style="left: 230px; top: 360px;" data-type="text" data-delay="2000" data-ease="easeOutExpo" data-duration="1200" data-effect="right(250)" href="https://ffcuga.org/insurance.php"> <span>Learn More</span> </a>
 
 
-					<h3 class="ms-layer  " style="left: 330px;top: 140px;font-size: 62px;font-weight: 700; color: black;" data-type="text" data-delay="500" data-ease="easeOutExpo" data-duration="1230" data-effect="scale(-0.3,-0.3)">Instant Issue Debit Cards...</h3>
-
-					<h3 class="ms-layer  " style="left: 330px; top: 220px; color: black; font-weight: 600; font-size: 36px;" data-type="text" data-delay="1500" data-ease="easeOutExpo" data-duration="1230" data-effect="scale(1.5,1.6)"> Say goodbye to waiting.</h3>
-					<h3 class="ms-layer  " style="left: 40px; bottom: 200px;font-weight: 500; text-align: left;font-size: 32px; color: black;" data-type="text" data-delay="2000" data-ease="easeOutExpo" data-duration="1230" data-effect="scale(-0.3,-0.3)">Family First Credit Union now has the ability to print your debit card instantly in either branch!</a></strong></h3>
-
-
-					<a class="ms-layer" style="left: 645px; top: 435px;" data-type="text" data-delay="2500" data-ease="easeOutExpo" data-duration="1200" data-effect="right(250)" href="https://ffcuga.org/instant-issue.php"> <img src="images/slider/instant-btn.png" alt="instant issue btn" style="width: 15vw !important;"> </a>
+                </div>
+                <!-- end slide A -->
 
 
 
 
-				</div>
-				<!-- end slide 1 -->
-
-				<!-- slide 2 -->
-				<div class="ms-slide slide-1 text-center" data-delay="9">
-					<img src="js/masterslider/blank.gif" data-src="images/slider/BikeBanner22.jpg" alt="" />
+                <!-- slide 1  -->
+                <div class="ms-slide slide-1 text-center" data-delay="9">
+                    <img src="js/masterslider/blank.gif" data-src="images/slider/Instant-Issue-Banner-(002).jpg" alt="" />
 
 
 
-					<h3 class="ms-layer text29" style="left: 550px; top: 80px; font-size: 52px; line-height: 61px; font-weight: 800; color: #012a5e; text-align: center; margin: 0px; padding: 0px;" data-type="text" data-delay="500" data-ease="easeOutExpo" data-duration="1230" data-effect="scale(-0.3,-0.3)">
-						Get 5.99% APR* on<br>
-						Balance Transfers<br>
-						for 6 months from<br>
-						date of transfer!
-					</h3>
+                    <h3 class="ms-layer  " style="left: 330px;top: 140px;font-size: 62px;font-weight: 700; color: black;" data-type="text" data-delay="500" data-ease="easeOutExpo" data-duration="1230" data-effect="scale(-0.3,-0.3)">Instant Issue Debit Cards...</h3>
 
-					<!--<h3 class="ms-layer text30"
+                    <h3 class="ms-layer  " style="left: 330px; top: 220px; color: black; font-weight: 600; font-size: 36px;" data-type="text" data-delay="1500" data-ease="easeOutExpo" data-duration="1230" data-effect="scale(1.5,1.6)"> Say goodbye to waiting.</h3>
+                    <h3 class="ms-layer  " style="left: 40px; bottom: 200px;font-weight: 500; text-align: left;font-size: 32px; color: black;" data-type="text" data-delay="2000" data-ease="easeOutExpo" data-duration="1230" data-effect="scale(-0.3,-0.3)">Family First Credit Union now has the ability to print your debit card instantly in either branch!</a></strong></h3>
+
+
+                    <a class="ms-layer" style="left: 645px; top: 435px;" data-type="text" data-delay="2500" data-ease="easeOutExpo" data-duration="1200" data-effect="right(250)" href="https://ffcuga.org/instant-issue.php"> <img src="images/slider/instant-btn.png" alt="instant issue btn" style="width: 15vw !important;"> </a>
+
+
+
+
+                </div>
+                <!-- end slide 1 -->
+
+                <!-- slide 2 -->
+                <div class="ms-slide slide-1 text-center" data-delay="9">
+                    <img src="js/masterslider/blank.gif" data-src="images/slider/BikeBanner22.jpg" alt="" />
+
+
+
+                    <h3 class="ms-layer text29" style="left: 550px; top: 80px; font-size: 52px; line-height: 61px; font-weight: 800; color: #012a5e; text-align: center; margin: 0px; padding: 0px;" data-type="text" data-delay="500" data-ease="easeOutExpo" data-duration="1230" data-effect="scale(-0.3,-0.3)">
+                        Get 5.99% APR* on<br>
+                        Balance Transfers<br>
+                        for 6 months from<br>
+                        date of transfer!
+                    </h3>
+
+                    <!--<h3 class="ms-layer text30"
 			style="    left: 270px;
     top: 290px;
     color: #3781d8;
@@ -258,7 +260,7 @@
 			data-ease="easeOutExpo"
 			data-duration="1230"
 			data-effect="scale(1.5,1.6)"> <strong>HIGH RATES</strong><br>Take You For a Ride</h3>-->
-					<h3 class="ms-layer" style="    left: 545px;
+                    <h3 class="ms-layer" style="    left: 545px;
     top: 410px;
     color: white;
     font-weight: 100;
@@ -269,20 +271,20 @@
 
 
 
-					<a class="ms-layer" style="left: 1230px; top: 375px;" data-type="text" data-delay="2500" data-ease="easeOutExpo" data-duration="1200" data-effect="right(250)" href="https://ffcuga.org/balance-landing.php"><img src="images/slider/bike-btn.png" alt="biker btn" style="width: 13vw;"></a>
+                    <a class="ms-layer" style="left: 1230px; top: 375px;" data-type="text" data-delay="2500" data-ease="easeOutExpo" data-duration="1200" data-effect="right(250)" href="https://ffcuga.org/balance-landing.php"><img src="images/slider/bike-btn.png" alt="biker btn" style="width: 13vw;"></a>
 
-					<h3 class="ms-layer" style="left: 1140px; top: 500px; color: #012a5e;
+                    <h3 class="ms-layer" style="left: 1140px; top: 500px; color: #012a5e;
     font-weight: 600;
     font-size: 35px;" data-type="text" data-delay="1500" data-ease="easeOutExpo" data-duration="1230" data-effect="scale(1.5,1.6)"> *For new cardholders only</h3>
 
 
 
 
-				</div>
-				<!-- end slide  -->
+                </div>
+                <!-- end slide  -->
 
-				<!-- slide 2 -->
-				<!--<div class="ms-slide slide-1 text-center" data-delay="9"> 
+                <!-- slide 2 -->
+                <!--<div class="ms-slide slide-1 text-center" data-delay="9"> 
     <img src="js/masterslider/blank.gif" data-src="images/slider/BikeBanner21.jpg" alt=""/>
          
      
@@ -328,7 +330,7 @@
 			data-ease="easeOutExpo"
 			data-duration="1230"
 			data-effect="scale(1.5,1.6)"> <strong>HIGH RATES</strong><br>Take You For a Ride</h3>-->
-				<!--<h3 class="ms-layer"
+                <!--<h3 class="ms-layer"
 			style="    left: 295px;
     top: 444px;
     color: white;
@@ -368,47 +370,47 @@
             
      
     </div>-->
-				<!-- end slide  -->
+                <!-- end slide  -->
 
-				<!-- slide 3  -->
-				<div class="ms-slide slide-1 text-center" data-delay="9">
-					<img src="js/masterslider/blank.gif" data-src="images/slider/cardfree-cash.jpg" alt="" />
-
-
-
-					<h3 class="ms-layer text29 uppercase" style="left: 660px;top: 10px;font-size: 72px; line-height: 76px; font-weight: 800; color: #ea6522;" data-type="text" data-delay="500" data-ease="easeOutExpo" data-duration="1230" data-effect="scale(-0.3,-0.3)">No Checking Account?<br>No Debit Card?<br>
-						No Worries!</h3>
-
-					<h3 class="ms-layer text30" style="left: 660px; top: 250px; color: black; font-weight: 700; font-size: 26px;" data-type="text" data-delay="1500" data-ease="easeOutExpo" data-duration="1230" data-effect="scale(1.5,1.6)"> (Now you can get CardFree Cash at participating ATMs anytime.)</h3>
+                <!-- slide 3  -->
+                <div class="ms-slide slide-1 text-center" data-delay="9">
+                    <img src="js/masterslider/blank.gif" data-src="images/slider/cardfree-cash.jpg" alt="" />
 
 
 
-					<a class="ms-layer sbut11" style="left: 660px; top: 450px; background: #ea6522;" data-type="text" data-delay="2500" data-ease="easeOutExpo" data-duration="1200" data-effect="right(250)" href="cardFree.php"> Learn More</a>
+                    <h3 class="ms-layer text29 uppercase" style="left: 660px;top: 10px;font-size: 72px; line-height: 76px; font-weight: 800; color: #ea6522;" data-type="text" data-delay="500" data-ease="easeOutExpo" data-duration="1230" data-effect="scale(-0.3,-0.3)">No Checking Account?<br>No Debit Card?<br>
+                        No Worries!</h3>
+
+                    <h3 class="ms-layer text30" style="left: 660px; top: 250px; color: black; font-weight: 700; font-size: 26px;" data-type="text" data-delay="1500" data-ease="easeOutExpo" data-duration="1230" data-effect="scale(1.5,1.6)"> (Now you can get CardFree Cash at participating ATMs anytime.)</h3>
+
+
+
+                    <a class="ms-layer sbut11" style="left: 660px; top: 450px; background: #ea6522;" data-type="text" data-delay="2500" data-ease="easeOutExpo" data-duration="1200" data-effect="right(250)" href="cardFree.php"> Learn More</a>
 
 
 
 
-				</div>
-				<!-- end slide 3 -->
+                </div>
+                <!-- end slide 3 -->
 
-				<!-- slide 4  -->
+                <!-- slide 4  -->
 
-				<!-- slide AFCU  -->
-				<div class="ms-slide slide-1 text-center" data-delay="9">
-					<img src="js/masterslider/blank.gif" data-src="images/slider/afcu-banner-blank.jpg" alt="" />
+                <!-- slide AFCU  -->
+                <div class="ms-slide slide-1 text-center" data-delay="9">
+                    <img src="js/masterslider/blank.gif" data-src="images/slider/afcu-banner-blank.jpg" alt="" />
 
 
 
-					<h3 class="ms-layer text29 uppercase" style="left: 400px;top: 80px;font-size: 45px; line-height: 76px; font-weight: 800; color: #cc0030; text-align: center;" data-type="text" data-delay="500" data-ease="easeOutExpo" data-duration="1230" data-effect="scale(-0.3,-0.3)">
-						<a href="afcu-letter.php"> Previous Atlanta Federal<br>
-							Credit Union Members please<br>
-							click here for important<br>
-							information regarding your<br>
-							account</a>.
-					</h3>
+                    <h3 class="ms-layer text29 uppercase" style="left: 400px;top: 80px;font-size: 45px; line-height: 76px; font-weight: 800; color: #cc0030; text-align: center;" data-type="text" data-delay="500" data-ease="easeOutExpo" data-duration="1230" data-effect="scale(-0.3,-0.3)">
+                        <a href="afcu-letter.php"> Previous Atlanta Federal<br>
+                            Credit Union Members please<br>
+                            click here for important<br>
+                            information regarding your<br>
+                            account</a>.
+                    </h3>
 
-				</div>
-				<!-- end slide AFCU -->
+                </div>
+                <!-- end slide AFCU -->
 
 
 
