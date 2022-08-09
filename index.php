@@ -310,9 +310,9 @@
     <div class="clearfix"></div>
     <!--************THIS IS WHERE WE ARE INCLUDING THE FOOTER!!!! ************
         YOU CAN FIND IT IN FOOTER.php!!!!-->
-    <?php include 'footer.php'; ?>
+    <?php include 'footer.php';?>
     <!--*********FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER **********-->
-    <?php include 'modals-new.php'; ?>
+    <?php include 'modals-new.php';?>
     <!-- ========== Js Files ========== -->
     <script type="text/javascript" src="js/universal/jquery.js"></script>
     <script src="remodal/dist/remodal.js"></script>
