@@ -53,7 +53,7 @@
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                     <div class="copy-right-wrapper">
                         <div class="margin-top1">Copyright © 2021 | </div>
-                        <p><span class="text-white">ffcuga.org</span>. All rights reserved. | Federally Insured by NCUA. | Site created by Growth by Design. | <a href="sitemap.php" target="_blank" class="text-white">Sitemap</a></p>
+                        <p><span class="text-white">ffcuga.org</span>. All rights reserved. | Federally Insured by NCUA. | Site created by Growth by Design.</p>
                     </div>
                 </div>
 
