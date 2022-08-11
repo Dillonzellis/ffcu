@@ -138,7 +138,7 @@
                 <h3 class="ms-layer text29" style="left: 170px; top: 70px; font-size: 72px; line-height: 74px; font-weight: 500; color: #00abbf; text-align: left; margin: 0px; padding: 0px;" data-type="text" data-delay="500" data-ease="easeOutExpo" data-duration="1230" data-effect="scale(-0.3,-0.3)">
                     JOINING IS
                 </h3>
-                <h3 class="ms-layer text30" style="left: 150px;
+                <div class="ms-layer text30" style="left: 150px;
                     top: 160px;
                     color: #00295d;
                     font-weight: 600;
@@ -147,7 +147,7 @@
                     padding: 0px;
                     line-height: 42px;
                     text-align: left;
-                    max-width: 41%;" data-type="text" data-delay="1485" data-ease="easeOutExpo" data-duration="1230" data-effect="scale(1.5,1.6)"> <img src="images/slider/cake-piece.jpg" style="max-width: 100%;" alt="piece of cake"></h3>
+                    max-width: 41%;" data-type="text" data-delay="1485" data-ease="easeOutExpo" data-duration="1230" data-effect="scale(1.5,1.6)"> <img src="images/slider/cake-piece.jpg" style="max-width: 100%;" alt="piece of cake"><div>
                 <h3 class="ms-layer" style="left: 405px;
                     top: 519px;
                     color: white;
